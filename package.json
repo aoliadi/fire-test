@@ -1,0 +1,19 @@
+{
+  "name": "f-base",
+  "version": "1.0.0",
+  "description": "firebase test project",
+  "main": "public/index.html",
+  "dependencies": {
+    "firebase": "^9.0.2",
+    "firebase-tools": "^9.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "firebase"
+  ],
+  "author": "aoliadi",
+  "license": "ISC"
+}
